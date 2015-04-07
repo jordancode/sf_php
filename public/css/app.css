@@ -1,0 +1,40 @@
+body {
+	padding:0;
+	margin:0;
+	background-color:#EEF3F3;
+	font-family:Helvetica,Tahoma,Verdana,Arial;
+}
+.page-contain {
+	text-align:center;
+}
+
+h1 {
+	font-size:36px;
+}
+
+h2 {
+	font-size:24px;
+}
+.alert-contain {
+	position:fixed;
+	margin-top:10px;
+	text-align:center;
+	width:100%;
+	z-index:20;
+}
+
+.alert {
+	display:inline-block;
+}
+
+.logo {
+	font-size:124px;
+	font-family: engagement, sans-serif;
+	color:#FFFFFF;
+	text-shadow:2px 2px rgba(0,0,0,.7);
+	display:inline-block;
+	width:545px;
+}
+
+
+

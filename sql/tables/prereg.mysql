@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS hello_world (
+	message VARCHAR(100),
+	PRIMARY KEY ( message )
+);
+
+INSERT INTO hello_world VALUES ('Hello World');
